@@ -1,5 +1,7 @@
 ---
+layout: default
 ---
+brave new world
 
 # Large Image Test
 
