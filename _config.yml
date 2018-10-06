@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: remote_theme: poole/hyde
 title: sydney's page, yo
 description: phdetermined
 
